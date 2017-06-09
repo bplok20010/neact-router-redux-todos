@@ -1,0 +1,49 @@
+{
+    "name": "neact-router-redux-todos",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bplok20010/neact-router-redux-todos.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bplok20010/neact-router-redux-todos/issues"
+    },
+    "homepage": "https://github.com/bplok20010/neact-router-redux-todos#readme",
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "history": "^4.6.1",
+        "jquery": "^3.2.1",
+        "neact": "^1.0.8",
+        "neact-router": "0.0.2",
+        "path-to-regexp": "^1.7.0",
+        "redux": "^3.6.0"
+    },
+    "devDependencies": {
+        "babel-core": "^6.24.1",
+        "babel-loader": "^6.4.1",
+        "babel-plugin-external-helpers": "^6.22.0",
+        "babel-plugin-istanbul": "^2.0.1",
+        "babel-plugin-transform-class-properties": "^6.24.1",
+        "babel-plugin-transform-es2015-modules-commonjs": "^6.23.0",
+        "babel-plugin-transform-es3-member-expression-literals": "^6.22.0",
+        "babel-plugin-transform-es3-property-literals": "^6.22.0",
+        "babel-plugin-transform-object-rest-spread": "^6.23.0",
+        "babel-preset-env": "^1.5.1",
+        "babel-preset-es2015": "^6.22.0",
+        "babel-preset-react": "^6.23.0",
+        "babel-preset-stage-0": "^6.22.0",
+        "babel-preset-stage-1": "^6.22.0",
+        "babel-preset-stage-2": "^6.22.0",
+        "webpack": "^1.15.0"
+    }
+}
